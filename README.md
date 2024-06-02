@@ -21,7 +21,7 @@ while active:
             break
 
         cpu_choice = random.choice(choices) # for cpu to randomly select from choices
-        user_choice = input('\nChoose between "Rock", "Paper", or "Scissors": ').lower()
+        user_choice = input('\nChoose between "Rock", "Paper", or "Scissors": ').lower() # stores player choice in a variable
 
         if(user_choice not in choices): # accounts for incorrect user input
             print('Please Choose Between "Rock", "Paper", or "Scissors" Only\n')
