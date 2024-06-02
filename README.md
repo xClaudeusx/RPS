@@ -4,7 +4,7 @@ This project is a very simple Rock Paper Scissors game played as a best of 7,
 created to familiarize one's self with some basic programming logic and 
 python fundamentals. The following steps were used:
 
-* Create variables to store and track cpu and player score
+* Create variables to store and track CPU and Player score
 * Create a list of choices (Rock, Paper Scissors) for cpu to choose from
 * Create a condition for while loop to run
 * Create a while loop for state of the game
